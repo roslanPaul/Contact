@@ -2,6 +2,9 @@
   "name": "mean-contactlist",
   "version": "0.0.0",
   "license": "MIT",
+  "engines": {
+    "node": "11.8.0"
+  },
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
